@@ -66,6 +66,8 @@ package Task::BeLike::KABLAMO;
 
 =pkg Moose
 
+=pkg Carp::Always
+
 
 =pkgroup Web tools
 
@@ -102,17 +104,29 @@ package Task::BeLike::KABLAMO;
 =pkg Log::Dispatch::Config
 
 =pkg Catalyst::Plugin::Assets
+
 =pkg Catalyst::View::TT
+
 =pkg Catalyst::View::JSON
+
 =pkg Data::Currency
+
 =pkg Number::Format
+
 =pkg DateTime::Format::SQLite
+
 =pkg Plack::Middleware::Assets
+
 =pkg Net::Server::SS::PreFork
+
 =pkg Catalyst::Plugin::Compress::Gzip
+
 =pkg Math::Random::MT
+
 =pkg CEDict::Pinyin
+
 =pkg Data::TreeDumper
+
 =pkg Captcha::reCAPTCHA
 
 
