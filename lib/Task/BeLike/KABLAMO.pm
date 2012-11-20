@@ -9,11 +9,15 @@ package Task::BeLike::KABLAMO;
 
 =pkg App::Ack
 
+=pkg App::Uni
+
 =pkg App::cpanminus
 
-=pkg App::mymeta_requires
+=pkg App::cpanoutdated
 
-=pkg App::Uni
+=pkg App::Genpass
+
+=pkg App::mymeta_requires
 
 =pkg Devel::REPL
 
