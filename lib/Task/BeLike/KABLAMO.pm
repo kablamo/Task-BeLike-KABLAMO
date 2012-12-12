@@ -23,6 +23,8 @@ package Task::BeLike::KABLAMO;
 
 =pkg Server::Starter
 
+=pkg Pod::Cpandoc
+
 
 =pkgroup CLI tools
 
