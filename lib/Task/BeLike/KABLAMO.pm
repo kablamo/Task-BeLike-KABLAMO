@@ -135,6 +135,8 @@ package Task::BeLike::KABLAMO;
 
 =pkg Captcha::reCAPTCHA
 
+=pkg Catalyst::Manual
+
 
 =pkgroup Data manipulation tools
 
